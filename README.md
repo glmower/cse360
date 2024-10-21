@@ -1,2 +1,2 @@
-# cse360_glm
-CSE 360: In-class activity
+# cse360
+Projects and assignments from CSE 360: Intro to Software Engineering
